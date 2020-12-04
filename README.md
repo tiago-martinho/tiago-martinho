@@ -1,5 +1,5 @@
-- I’m currently working on my master thesis on automatic generation of questions about programming code
-- Reach me on [LinkedIn](https://www.linkedin.com/in/tiagomartinhos/)
+- Currently working on my master thesis on automatic generation of questions about programming code 📝
+- Reach me on [LinkedIn](https://www.linkedin.com/in/tiagomartinhos/) 👔
 
 <!--
 **tiago-martinho/tiago-martinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
