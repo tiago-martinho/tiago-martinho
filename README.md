@@ -1,4 +1,4 @@
-- Currently working on my master thesis on automatic generation of questions about programming code 📝
+- Currently working on my master thesis on automatic generation of questions about introductory programming code 📝
 - Reach me on [LinkedIn](https://www.linkedin.com/in/tiagomartinhos/) 👔
 
 <!--
