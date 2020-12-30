@@ -1,4 +1,5 @@
-- Currently working on my master's dissertation on automatic generation of questions about introductory programming code 📝
+- Currently working on my master's dissertation on automatic generation of questions about introductory programming code 🎓
+- Check my [website](https://www.tiagofmartinho.com/) 💻
 - Reach me on [LinkedIn](https://www.linkedin.com/in/tiagomartinhos/) 👔
 
 <!--
