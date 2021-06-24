@@ -1,18 +1,18 @@
-- Currently working on my Master's Dissertation on Automatic Question Generation about Introductory Programming Code 🎓
-- Check my [website](https://www.tiagofmartinho.com/) 💻
-- Reach me on [LinkedIn](https://www.linkedin.com/in/tiagomartinhos/) 👔
+## Hi, I'm Tiago! 🧑🏻‍💻
 
-<!--
-**tiago-martinho/tiago-martinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Talkdesk <br>
+Currently working on my Master's Dissertation on Automatic Question Generation about Introductory Programming Code 📈 <br>
 
-Here are some ideas to get you started:
+#### Technologies I'm using at the moment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kotlin](https://img.shields.io/badge/-Kotlin-FB8500?style=flat-square&logo=Kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-00BAFB?style=flat-square&logo=React&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-FB0000?style=flat-square&logo=Ruby&logoColor=white)
+
+#### More about me
+
+- Beach and sea lover 🏖️
+- Self-proclaimed bodysurf champion 🌊
+- Proud owner of fox-like dog named Kika 🐕
+- Reach me on: [![linkedin](https://img.shields.io/badge/-tiagomartinhos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomartinhos/)](https://www.linkedin.com/in/tiagomartinhos/)
