@@ -12,7 +12,7 @@ Working on my Master's Dissertation on Automatic Question Generation about Intro
 
 ### More about me
 
-- Beach and sea lover 🏖️
+- Summer, beach and sea lover 🏖️
 - Self-proclaimed bodysurf champion 🌊
 - Proud owner of a fox-like dog named Kika 🐕
 
