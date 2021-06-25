@@ -1,6 +1,6 @@
 ## Hi, I'm Tiago! 🧑🏻‍💻 
 
-Software Engineer at Talkdesk  
+Software Engineer at [Talkdesk](https://www.talkdesk.com/)  
 Working on my Master's Dissertation on Automatic Question Generation about Introductory Programming Code 📈
 
 ### Technologies I'm using at the moment
