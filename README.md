@@ -18,4 +18,4 @@ Working on my Master's Dissertation on Automatic Question Generation about Intro
 
 ### Reach me on
 
-[![linkedin](https://img.shields.io/badge/-tiagomartinhos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomartinhos/)](https://www.linkedin.com/in/tiagomartinhos/)
+[![linkedin](https://img.shields.io/badge/-tiagofmartinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomartinhos/)](https://www.linkedin.com/in/tiagofmartinho/)
